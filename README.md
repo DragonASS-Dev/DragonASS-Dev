@@ -3,11 +3,11 @@ I am A Fullstack Developer and i do security/Pentesting stuff
 
 &#155; Game Dev
 
-&#xf109; Webside creator
+&#xf109; Website creator
 
 &#128274; IT Security;
 
-&#9889; conerting Monster in code
+&#9889; converting Monster in code
 
 
 I like Anime
