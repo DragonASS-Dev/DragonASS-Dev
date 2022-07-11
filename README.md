@@ -5,7 +5,7 @@ I am A Fullstack Developer and i do security/Pentesting stuff
 
 &#xf109; Website creator
 
-&#128274; IT Security;
+&#128274; IT Security
 
 &#9889; converting Monster in code
 
